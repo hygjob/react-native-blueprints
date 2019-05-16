@@ -1,0 +1,15 @@
+03 장 하면서
+node_modules 하단의 MapsPackage.java와 RNGeocoderPackage.java를 버전에 맞추어 수정해 주었다. 
+  /* comment out hygjob
+  @Override
+  public List<Class<? extends JavaScriptModule>> createJSModules() {
+    return Collections.emptyList();
+  }*/
+
+  /* @Override # hygjob comment out
+     public List<Class<? extends JavaScriptModule>> createJSModules() {
+       return Collections.emptyList();
+     }*/
+
+
+"react-native-maps": "^0.19.0" 으로 버전을 올려 주었다. 버그가 있어서. 
