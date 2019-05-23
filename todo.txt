@@ -1,4 +1,4 @@
 2019.5.16 read chapter 3
 2019.5.21 read chapter 4
 2019.5.22 read chapter 5
-
+2019.5.23 read chapter 5 & write code
